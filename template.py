@@ -25,6 +25,7 @@ list_of_files = [
     f"{project_name}/exception/__init__.py",
     f"{project_name}/pipeline/__init__.py",
     f"config/config.yaml",
+    "schema.yaml",
     "setup.py",
     "main.py",
     "requirements.txt",
